@@ -1,3 +1,4 @@
+<img align="center" alt="coding" width="950" src="Coding with Ashish sahu.png">
 <h1 align="center">Hi 👋, I'm Ashish Sahu</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
